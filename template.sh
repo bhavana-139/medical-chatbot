@@ -1,13 +1,16 @@
+# Creating directory 
 mkdir -p src
-mkdir -p reseach
+mkdir -p research 
 
+# Creating files
 touch src/__init__.py
-touch src/helper.py
+touch src/helper.py 
 touch src/prompt.py
-touch .env
+touch .env 
 touch setup.py
 touch app.py
-touch research/trails.ipynb
+touch research/trials.ipynb 
 touch requirements.txt
 
-echo "Directory and file created successfully."
+
+echo "Directory and files created successfully!"
